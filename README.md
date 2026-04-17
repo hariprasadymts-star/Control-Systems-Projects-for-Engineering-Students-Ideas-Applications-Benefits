@@ -12,10 +12,15 @@ A control system is a combination of components designed to regulate the output 
 Popular Control Systems Project Ideas 
 
 Students can work on different types of control system projects to gain practical knowledge and hands-on experience. 
+
 Temperature Control System: Maintains a desired temperature using sensors and controllers, commonly used in industries and home appliances. 
+
 DC Motor Speed Control: Controls motor speed using techniques like PWM, widely used in robotics and automation. 
+
 Water Level Controller: Automatically maintains water levels in tanks using sensors and relays, useful in residential and industrial systems. 
+
 Automatic Street Light Control: Uses light sensors to turn lights ON or OFF based on surrounding conditions, helping save energy. 
+
 PID Controller Projects: Used for precise control in advanced systems like robotics, process industries, and automation applications.
 
 Technologies Used 
